@@ -7,7 +7,7 @@ Welcome to the official GitHub Organization for **Rooibox**, an open-source ecos
 ## ⚡ Key Pillars of the Rooibox Ecosystem
 
 - 🛡️ **Network SIEM & XDR (`rooibox/ruleset` & `rooibox/stack`):** High-performance ingestion pipeline (Vector + Wazuh + OpenSearch) built for agentless Syslog processing from Cisco, Juniper, Huawei, MikroTik, and BNGs.
-- 🔒 **Carrier-Grade DNS Security (`rooibox/dns-engine` & `rooibox/threat-feeds`):** Open-source alternative to Whalebone. RPZ-based blocking on Knot Resolver to neutralize C2, botnets, and phishing attempts at the DNS level.
+- 🔒 **Carrier-Grade DNS Security (`rooibox/dns-engine` & `rooibox/threat-feeds`):** Open-source DNS security solution. RPZ-based blocking on Knot Resolver to neutralize C2, botnets, and phishing attempts at the DNS level.
 - 🎯 **Agentic AI Pentesting (`rooibox/attack`):** Autonomous multi-agent AI framework for continuous attack surface management and breach simulation.
 - 💻 **Linux Infrastructure Protection:** Agent-based vulnerability detection, FIM, and SCA scanning for Linux servers (BNG, Billing, DNS, Virtualization).
 
